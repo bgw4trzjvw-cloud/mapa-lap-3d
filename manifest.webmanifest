@@ -1,0 +1,20 @@
+{
+  "id": "./",
+  "name": "LAP 3D — Urbanon",
+  "short_name": "LAP 3D",
+  "description": "Navegação 3D da Urbanon",
+  "start_url": "./?source=homescreen",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#101018",
+  "theme_color": "#171622",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "./lap-icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
